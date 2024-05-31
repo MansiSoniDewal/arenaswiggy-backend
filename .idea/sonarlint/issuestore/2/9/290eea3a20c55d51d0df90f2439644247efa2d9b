@@ -1,0 +1,15 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(κζΔή8Ύ„ÿθό1J$d60ee64b-5aec-41b2-b8a8-bd9e78f194dd
+i
+java:S1452"&Remove usage of generic wildcard type.(Π‘½τ8Δ„ÿθό1J$52978b68-cacf-45c7-8732-0894bb91fca5
+r	java:S106"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8Η„ÿθό1J$886b0bc0-3607-48ff-99ca-8aec2c9fdb8d
+i
+java:S1452!"&Remove usage of generic wildcard type.(­Ò¨8Θ„ÿθό1J$c22fc527-be45-4d29-a31e-22326f8ef566
+r	java:S106("+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8Ι„ÿθό1J$d8eb5fca-3262-474d-80bf-51d305321e9a
+i
+java:S1452."&Remove usage of generic wildcard type.(ΩλΫζ8Μ„ÿθό1J$d044c7e1-0b18-433a-b74f-8555e43df202
+r	java:S1063"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8Π„ÿθό1J$dc395c7a-8d28-4df9-85e2-8e2b4958e3b3
+n
+java:S14529"&Remove usage of generic wildcard type.(ΔΡυϊÿÿÿÿ8Ηριό1J$f83de863-189a-4d0e-92ae-fcf2e31ca492
+r	java:S106>"+Replace this use of System.out by a logger.(©ώκάϊÿÿÿÿ8ςΕιό1J$6e4054c6-21f0-47f0-acbe-9c577b5c91fd
